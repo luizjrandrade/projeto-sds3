@@ -1,6 +1,6 @@
 # projeto-sds3
 Projeto Java, Spring Boot, criado na Semana DevSuperior Spring React.
->  *App inédito para com as tecnologias mais demandadas do mercado*
+>  *App inédito desenvolvido com as tecnologias mais demandadas do mercado*
 
 <h3>Objetivos do Projeto</h3>
 <ul>
